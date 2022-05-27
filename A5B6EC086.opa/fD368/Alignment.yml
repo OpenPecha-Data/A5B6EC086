@@ -1,0 +1,23 @@
+segment_sources:
+  IE9F4EF99:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6464B54C:
+    type: origin_type
+    relation: translation
+    language: zh
+  I16B91B94:
+    type: origin_type
+    relation: translation
+    language: bo
+  IC8BEC4BC:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  1a0411519d914343b87c806e216e783c:
+    IE9F4EF99: f4c8be4d03b2470cbaa59d75988a98b7
+    I6464B54C: ece498ccc35342e583944416e596ae59
+    I16B91B94: 735c801c5a404bb7b2a9092be22a5157
+    IC8BEC4BC: 4c0c8a25e6da4ecab4e83cd260d0ccbe
